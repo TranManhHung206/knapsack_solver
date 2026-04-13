@@ -1,0 +1,82 @@
+﻿-- Kết quả chạy toàn bộ testcase được copy về đây tránh trường hợp chạy lại chương trình làm ghi đè
+hết kết quả đã có
+
+File Name,Solver Value,Total Weight,Is optimal
+00_n0050.kp,20561,13767,Yes
+00_n0100.kp,45504,21604,Yes
+00_n0200.kp,80297,51359,Yes
+00_n0500.kp,201378,124347,Yes
+00_n1000.kp,405157,247350,Yes
+00_n2000.kp,810709,497947,Yes
+01_n0050.kp,15065,13569,Yes
+01_n0100.kp,29321,27380,Yes
+01_n0200.kp,54414,48999,Yes
+01_n0500.kp,138191,125404,Yes
+01_n1000.kp,275159,249751,Yes
+01_n2000.kp,549459,497104,Yes
+02_n0050.kp,16970,13570,Yes
+02_n0100.kp,34181,27381,Yes
+02_n0200.kp,63031,48931,No (Time limit)
+02_n0500.kp,160244,125244,No (Time limit)
+02_n1000.kp,319438,249438,No (Time limit)
+02_n2000.kp,637105,497105,No (Time limit)
+03_n0050.kp,14346,16046,Yes
+03_n0100.kp,28932,32332,No (Time limit)
+03_n0200.kp,52700,58900,Yes
+03_n0500.kp,133970,149770,No (Time limit)
+03_n1000.kp,267457,299257,No (Time limit)
+03_n2000.kp,532415,596115,No (Time limit)
+04_n0050.kp,16983,13570,Yes
+04_n0100.kp,34177,27381,Yes
+04_n0200.kp,63101,48969,No (Time limit)
+04_n0500.kp,160389,125383,No (Time limit)
+04_n1000.kp,319523,249511,No (Time limit)
+04_n2000.kp,637190,497105,Yes
+05_n0050.kp,13570,13570,Yes
+05_n0100.kp,27381,27381,Yes
+05_n0200.kp,49000,49000,Yes
+05_n0500.kp,125404,125404,Yes
+05_n1000.kp,249752,249752,Yes
+05_n2000.kp,497105,497105,Yes
+06_n0050.kp,19477,2401507,Yes
+06_n0100.kp,39395,4902104,Yes
+06_n0200.kp,74488,9904931,Yes
+06_n0500.kp,187186,24712606,No (Time limit)
+06_n1000.kp,372599,49525012,Yes
+06_n2000.kp,742332,99049381,No (Time limit)
+07_n0050.kp,15196,933,Yes
+07_n0100.kp,28162,1672,Yes
+07_n0200.kp,55175,3315,No (Time limit)
+07_n0500.kp,137722,8271,No (Time limit)
+07_n1000.kp,275572,16644,No (Time limit)
+07_n2000.kp,542167,32984,No (Time limit)
+08_n0050.kp,2480,13330,Yes
+08_n0100.kp,4452,24264,Yes
+08_n0200.kp,8902,47904,Yes
+08_n0500.kp,22174,119464,No (Time limit)
+08_n1000.kp,44592,239682,No (Time limit)
+08_n2000.kp,88000,473000,No (Time limit)
+09_n0050.kp,28670,13270,No (Time limit)
+09_n0100.kp,51731,23931,No (Time limit)
+09_n0200.kp,103433,47833,No (Time limit)
+09_n0500.kp,257813,119213,No (Time limit)
+09_n1000.kp,517646,239346,No (Time limit)
+09_n2000.kp,1023008,473008,No (Time limit)
+10_n0050.kp,21166,13566,Yes
+10_n0100.kp,42678,27378,Yes
+10_n0200.kp,80096,48996,Yes
+10_n0500.kp,201600,125400,No (Time limit)
+10_n1000.kp,402650,249750,No (Time limit)
+10_n2000.kp,803800,497100,No (Time limit)
+11_n0050.kp,13566,13570,Yes
+11_n0100.kp,27372,27381,Yes
+11_n0200.kp,48978,49000,Yes
+11_n0500.kp,125352,125404,No (Time limit)
+11_n1000.kp,249630,249751,No (Time limit)
+11_n2000.kp,496893,497104,No (Time limit)
+12_n0050.kp,285931,13570,Yes
+12_n0100.kp,576941,27381,No (Time limit)
+12_n0200.kp,1032473,49000,No (Time limit)
+12_n0500.kp,2642373,125404,No (Time limit)
+12_n1000.kp,5262502,249752,No (Time limit)
+12_n2000.kp,10474463,497105,No (Time limit)
